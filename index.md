@@ -28,3 +28,12 @@ How might we improve the scientific paper to create a more sustainable platform 
 The research paper was originally a document printed and bound in journals: over time, these documents were published online and underwent minor cosmetic changes, yet many assumptions of the original format survive, namely, that research must take the form of a paper artifact. Yet modern ML research often contains multimedia and rich interactive applications, often hosted externally and can be displaced or go missing. To accommodate the diversity of new content, authors and publishers must adopt a more inclusive format for sharing scientific research and redesign conference publications to meet the evolving information needs of both authors and readers alike.
 
 Among the ML research community, there is a variety of innovative content that does not reach traditional machine learning conferences. By showcasing work from ML researchers on the frontiers of digital publication, we hope to raise awareness for alternative writing styles and templates for publication. How can we improve understanding through scientific communication? How can we make the medium more inclusive and accessible for current and future contributors? These are some of the themes we hope to explore in our workshop. Please join us for an exciting discussion on redesigning the scientific paper for machine learning research!
+
+
+### Related past workshops
+
+1. [Visualization for AI Explainability (VISxAI)](https://visxai.io/) - 2020
+2. [Beyond the PDF](https://sites.google.com/site/beyondthepdf/home) - 2011
+3. [How to write a good review?](https://sites.google.com/view/making-reviews-great-again/) - CVPR 2020
+4. [Reproducibility in ML](https://sites.google.com/view/icml-reproducibility-workshop/home)
+5. [ML Retrospectives](https://ml-retrospectives.github.io/) - 2020
