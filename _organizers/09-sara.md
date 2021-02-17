@@ -6,7 +6,7 @@ name: Sara Hooker
 webpage: https://www.sarahooker.me/
 
 # Primary affiliation
-affil: Mila
+affil: Google Brain
 # Link to the primary affiliation
 affil_link: https://research.google/teams/brain/
 
