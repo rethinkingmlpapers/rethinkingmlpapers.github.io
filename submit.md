@@ -69,8 +69,8 @@ Our submission portal can be accessed at: [https://openreview.net/group?id=ICLR.
 
 ### Important dates
 
-1. Submissions due for the position paper track (double-blind): ~**9 March 2021**~ **16 March 2021(2359 hrs, Anywhere-on-Earth)**
-2. Submissions due for the exhibit/workflow track (single-blind): ~**9 March 2021**~ **16 March 2021 (2359 hrs, Anywhere-on-Earth)**
+1. Submissions due for the position paper track (double-blind): ~~9 March 2021~~ **16 March 2021(2359 hrs, Anywhere-on-Earth)**
+2. Submissions due for the exhibit/workflow track (single-blind): ~~9 March 2021~~ **16 March 2021 (2359 hrs, Anywhere-on-Earth)**
 
 
 ### Review criteria
