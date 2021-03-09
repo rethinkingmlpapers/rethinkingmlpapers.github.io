@@ -59,7 +59,7 @@ Each submission is required to contain an accessibility statement discussing how
 * Discuss known exceptions to intended accessibility levels,
 * Comment on how feedback will be gathered and used for improving accessibility.
 
-There are multiple great resources on writing accessibility statements on the Internet, like [this one](https://www.nomensa.com/blog/2009/writing-an-accessibility-statement) from Nomensa or [this one](https://opentextbc.ca/accessibilitytoolkit/chapter/accessibility-statements/) from opentextbc. An example accessibility statement from Nature Journals can be found [here](https://www.nomensa.com/blog/2009/writing-an-accessibility-statement).
+There are multiple great resources on writing accessibility statements on the Internet, like [this one](https://www.nomensa.com/blog/2009/writing-an-accessibility-statement) from Nomensa or [this one](https://opentextbc.ca/accessibilitytoolkit/chapter/accessibility-statements/) from opentextbc. An example accessibility statement from Nature Journals can be found [here](https://www.nature.com/info/accessibility-statement).
 
 
 ### Submission portal
@@ -69,5 +69,10 @@ Our submission portal can be accessed at: [https://openreview.net/group?id=ICLR.
 
 ### Important dates
 
-1. Submissions due for the position paper track (double-blind): **9 March 2021 (2359 hrs, Anywhere-on-Earth)**
-2. Submissions due for the exhibit/workflow track (single-blind): **9 March 2021 (2359 hrs, Anywhere-on-Earth)**
+1. Submissions due for the position paper track (double-blind): ~**9 March 2021**~ **16 March 2021(2359 hrs, Anywhere-on-Earth)**
+2. Submissions due for the exhibit/workflow track (single-blind): ~**9 March 2021**~ **16 March 2021 (2359 hrs, Anywhere-on-Earth)**
+
+
+### Review criteria
+
+In an effort to improve transparency, and to aid in preparing your submission, we have uploaded our review criteria [here](https://docs.google.com/document/d/1QJeEf1KPSaezdhZgltqJm0LA-M7qx2Ja2leFTRkhUPo/edit?usp=sharing).
