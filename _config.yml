@@ -36,11 +36,11 @@ plugins:
 # this and add the path to the pages in order as they should show up
 header_pages:
 - index.md
-- speakers.md
-- organizers.md
 - submit.md
 - schedule.md
-# - papers.md
+- speakers.md
+- organizers.md
+- papers.md
 - getinvolved.md
 
 # # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:

@@ -30,6 +30,13 @@ The research paper was originally a document printed and bound in journals: over
 Among the ML research community, there is a variety of innovative content that does not reach traditional machine learning conferences. By showcasing work from ML researchers on the frontiers of digital publication, we hope to raise awareness for alternative writing styles and templates for publication. How can we improve understanding through scientific communication? How can we make the medium more inclusive and accessible for current and future contributors? These are some of the themes we hope to explore in our workshop. Please join us for an exciting discussion on redesigning the scientific paper for machine learning research!
 
 
+### Contact us
+
+The organizers may be reached at `rethinkingmlpapers <AT> <popular-email-service-from-google> <DOT> com`
+
+[Follow us on Twitter](https://twitter.com/rethinkmlpapers)!
+
+
 ### Related past workshops
 
 1. [Visualization for AI Explainability (VISxAI)](https://visxai.io/) - 2020

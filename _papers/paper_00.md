@@ -3,17 +3,20 @@
 sequence_id: 0
 
 # Paper title
-title: gradSLAM - Automagically differentiable SLAM
+title: In defense of the paper
+
+# Accepted for oral presentation?
+oral: 1
 
 # Paper authors
-authors: Krishna Murthy Jatavallabhula, Soroush Saryazdi, Ganesh Iyer, and Liam Paull
+authors: Owen Lockwood
 
-# Author affiliations
-affil: Mila, Universite de Montreal, Concordia University, and Carnegie Mellon University
+# Link to the openreview page
+openreview: https://openreview.net/forum?id=MUR1oxCnvNs
 
-# Link to the paper's pdf (place in the `assets/pdf/papers` directory)
-pdf: 00.pdf
+# TL;DR
+tldr: The root cause of hindrances in the accessibility of machine learning research lies not in the paper workflow but within the misaligned incentives behind the publishing and research processes.
 
-# Link to a representative image for the paper (place in the `assets/img/papers` directory)
-img: 00.png
+# Abstract for the papers
+abstract: The machine learning publication process is broken, of that there can be no doubt. Many of these flaws are attributed to the current workflow; LaTeX to PDF to reviewers to camera ready PDF. This has understandably resulted in the desire for new forms of publications; ones that can increase inclusively, accessibility and pedagogical strength. However, this venture fails to address the origins of these inadequacies in the contemporary paper workflow. The paper, being the basic unit of academic research, is merely how problems in the publication and research ecosystem manifest; but is not itself responsible for them. Not only will simply replacing or augmenting papers with different formats not fix existing problems; when used as a band-aid without systemic changes, will likely exacerbate the existing inequities. In this work, we argue that the root cause of hindrances in the accessibility of machine learning research lies not in the paper workflow but within the misaligned incentives behind the publishing and research processes. We discuss these problems and argue that the paper is the optimal workflow. We also highlight some potential solutions for the incentivization problems. 
 ---
