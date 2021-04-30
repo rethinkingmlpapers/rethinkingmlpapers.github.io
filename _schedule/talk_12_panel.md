@@ -1,6 +1,6 @@
 ---
 sequence_id: 12
-speaker: Panelists
+speaker: David Ha, Devi Parikh, Evelyne Viegas, Falaah Arif Khan
 title: Panel Discussion
-time: 1300 - 1340
+time: 1300
 ---

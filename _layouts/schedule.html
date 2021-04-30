@@ -16,8 +16,18 @@ layout: default
 	  				<b>Time (EDT)</b>
 	  			</p>
 	  		</td>
-	  		<td>
-	  		</td>
+			<td>
+				<p align="center">
+					<b>Time (PDT)</b>
+				</p>
+			</td>
+			<td>
+				<p align="center">
+					<b>Time (CEST)</b>
+				</p>
+			</td>
+			<td>
+			</td>
 	  		<td>
 	  			<p align="center">
 	  				<b>Event</b>
@@ -29,6 +39,16 @@ layout: default
 		        <td>
 		            <p align="center">
 		                {{ scheduleitem.time }}
+		            </p>
+		        </td>
+				<td>
+		            <p align="center">
+		                {{ scheduleitem.time | minus: 300 | prepend: '0000' | slice: -4, 4 }}
+		            </p>
+		        </td>
+				<td>
+		            <p align="center">
+		                {{ scheduleitem.time | plus: 300 }}
 		            </p>
 		        </td>
 		        <td>

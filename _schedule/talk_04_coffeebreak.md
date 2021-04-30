@@ -1,6 +1,6 @@
 ---
 sequence_id: 4
-speaker: You
+speaker: 
 title: Virtual Coffee Break
-time: 0950 - 1000
+time: 0950
 ---
