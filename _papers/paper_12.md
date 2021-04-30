@@ -16,4 +16,7 @@ tldr: An interactive visualization to illustrate potential foveation effects inc
 
 # Abstract for the papers
 abstract: This exhibit demonstrates how boundary treatment in convolutional networks can incur foveation effects -- Impacted pixels have fewer ways to contribute to the computation than central pixels. Different padding mechanisms can either eliminate or aggravate these effects, which is made obvious by an interactive visualization.
+
+# YouTube
+youtube: zQ3I43uf-rM
 ---

@@ -14,21 +14,26 @@ layout: default
 
 		<table>
 			<tr>
-				<td width="25%">
-					<div class="people-name text-center">
+				<td width="35%">
+					<div class="people-name text-left">
 						<b>Paper</b>
 					</div>
 				</td>
-				<td width="75%">
-					<div class="people-name text-center">
+				<td width="50%">
+					<div class="people-name text-left">
 						<b>TL;DR</b>
+					</div>
+				</td>
+				<td width="15%">
+					<div class="people-name text-left">
+						<b>Video</b>
 					</div>
 				</td>
 			</tr>
 			{% for paper in site.papers %}
 				<tr>
-					<td width="45%">
-						<div class="people-name text-center">
+					<td width="35%">
+						<div class="people-name text-left">
 							<b>{{ paper.title }}</b>
 							{% if paper.oral %}
 								<span class="badge badge-secondary">ORAL</span>
@@ -50,8 +55,8 @@ layout: default
 							{% endif %}
 						</div>
 					</td>
-					<td width="55%">
-						<div class="people-name text-center">
+					<td width="50%">
+						<div class="people-name text-left">
 							{% if paper.tldr %}
 								{{ paper.tldr }}
 							{% endif %}
@@ -65,6 +70,13 @@ layout: default
 							<!-- Link to OpenReview (if provided) -->
 							{% if paper.openreview %}
 								<a class="btn btn-outline-primary" href="{{ paper.openreview }}" role="button">Paper</a>
+							{% endif %}
+						</div>
+					</td>
+					<td width="15%">
+						<div class="people-name text-left">
+							{% if paper.youtube %}
+								<iframe src="{{ paper.youtube | prepend: 'https://www.youtube.com/embed/' }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 							{% endif %}
 						</div>
 					</td>

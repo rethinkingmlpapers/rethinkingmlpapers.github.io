@@ -16,4 +16,7 @@ tldr: Converting large LaTeX docs to HTML is hard and it really shouldn't be
 
 # Abstract for the papers
 abstract: I converted my PhD thesis, titled Lowering the cost of anonymization, into HTML. The motivation and process are described in a blog post; and I was told that this work could constitute an interesting exhibit submission to the 2021 Rethinking ML Papers workshop at ICLR.
+
+# YouTube
+youtube: vznwJU-WdUo
 ---

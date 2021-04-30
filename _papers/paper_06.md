@@ -16,4 +16,7 @@ tldr: Diagrams are effective for communicating about ML systems and should be pl
 
 # Abstract for the papers
 abstract: This paper advocates for diagrammatic summary publications for machine learning system architecture papers. We review existing diagram-centric scholarly practices, and summarise relevant studies on neural network system architecture diagrams. We subsequently propose three opportunities -- Diagram guidelines, diagrammatic system summary publications, and the community creation of a formal diagram standards, which could be integrated with existing LaTeX + PDF publication processes.
+
+# YouTube
+youtube: qyJsDu5L87U
 ---

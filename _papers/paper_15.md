@@ -16,4 +16,7 @@ tldr: Interactive media can be very useful to understand the fundamentals of gra
 
 # Abstract for the papers
 abstract: We demonstrate the advantages of an interactive medium for explaining the key principles and mathematical machinery behind graph neural networks. We discuss the challenges we faced while creating an expository article on this topic using interactive elements.
+
+# YouTube
+youtube: _VYx6JzGf9Q
 ---
