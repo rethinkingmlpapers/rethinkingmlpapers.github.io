@@ -77,6 +77,16 @@ layout: default
 						<div class="people-name text-left">
 							{% if paper.youtube %}
 								<iframe src="{{ paper.youtube | prepend: 'https://www.youtube.com/embed/' }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							{% elsif paper.slideslive %}
+								<div id="{{ paper.slideslive | prepend: 'presentation-embed-' }}"></div>
+								<script src='https://slideslive.com/embed_presentation.js'></script>
+								<script>
+								    embed = new SlidesLiveEmbed('{{ paper.slideslive | prepend: 'presentation-embed-' }}', {
+								        presentationId: '38955870',
+								        autoPlay: false, // change to true to autoplay the embedded presentation
+								        verticalEnabled: true
+								    });
+								</script>
 							{% endif %}
 						</div>
 					</td>

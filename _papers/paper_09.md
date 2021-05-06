@@ -16,4 +16,7 @@ tldr: Augmenting the references section with a citation network visualization, b
 
 # Abstract for the papers
 abstract: Researchers often find relevant articles by looking at the references section. We conducted user interviews with researchers about their workflow and their needs when carrying out literature research. Based on this study, we identify a set of problems encountered by researchers. We then propose to embed classified citation networks into articles as a solution, and to complement this graph with optional comments about references by authors.  We demonstrate this idea by implementing it for this article. We argue that our solution helps increase inclusivity and improves the efficiency of reading scientific articles.
+
+# Slideslive
+slideslive: 38955870
 ---
