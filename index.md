@@ -11,11 +11,10 @@ layout: home
 
 <figure>
 	<div style="text-align:center">
-		<img src="assets/img/banner.png" />
+		<img src="assets/img/banner.png" alt="A logo image for the rethinking ML papers workshop, designed by Falaah Arif Khan" />
 		<figcaption>Image Credits: <a href="https://falaaharifkhan.github.io/research/">Falaah Arif Khan</a></figcaption>
 	</div>
 </figure>
-<!-- ![](assets/img/banner.png) -->
 
 > Join us at our ICLR workshop on **Friday, May 7 2021** (0800 hrs - 1500 hrs Eastern Daylight Time)
 
